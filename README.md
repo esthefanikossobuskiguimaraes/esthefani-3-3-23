@@ -1,1 +1,2 @@
-# esthefani-3-3-23
+# turmaM-3tri
+Terça-feira das 14h às 15h40
