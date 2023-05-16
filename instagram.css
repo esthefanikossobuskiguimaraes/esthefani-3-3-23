@@ -1,11 +1,17 @@
-#imagem1 {
-	width:200%;
+
+#Instagram-logo {
+	width: 80%;
+	margin-left: 10%;}
+
+body{
+	background-color:  #ff0095;
+
 }
 
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
-}
+}	
 
 .titulo-principal {
 	padding-left: 20px;
@@ -24,7 +30,7 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+	color: #ff0095;
 }
 
 .itens {
